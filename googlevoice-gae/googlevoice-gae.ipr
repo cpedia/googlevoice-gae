@@ -6,10 +6,6 @@
   <component name="BuildJarProjectSettings">
     <option name="BUILD_JARS_ON_MAKE" value="false" />
   </component>
-  <component name="CodeStyleSettingsManager">
-    <option name="PER_PROJECT_SETTINGS" />
-    <option name="USE_PER_PROJECT_SETTINGS" value="false" />
-  </component>
   <component name="CompilerConfiguration">
     <option name="DEFAULT_COMPILER" value="Javac" />
     <resourceExtensions>
@@ -207,6 +203,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/googlevoice-gae.iml" filepath="$PROJECT_DIR$/googlevoice-gae.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../googlevoice-gae-sample/googlevoice-gae-sample.iml" filepath="$PROJECT_DIR$/../googlevoice-gae-sample/googlevoice-gae-sample.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" assert-keyword="true" jdk-15="true" project-jdk-name="Python 2.5.2" project-jdk-type="Python SDK">
