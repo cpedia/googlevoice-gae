@@ -1,3 +1,11 @@
+"""
+This helper class is based on Scott's work.
+See his post:
+http://everydayscripting.blogspot.com/2009/08/google-app-engine-cookie-handling-with.html
+
+"""
+
+
 import urllib, urllib2, Cookie
 from google.appengine.api import urlfetch
 
